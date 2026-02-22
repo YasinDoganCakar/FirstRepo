@@ -1,6 +1,6 @@
 # FirstRepo
 Bu repo [Yasin Dogan Cakar](https://github.com/YasinDoganCakar) tarafından oluşturulan ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![github](gitRepo.png)
+![github](img/gitRepo.png)
 ## Installation
 Öncelikle projeyi clonelayın.
 ```bash
